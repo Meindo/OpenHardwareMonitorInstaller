@@ -1,0 +1,2 @@
+# OpenHardwareMonitorInstaller
+An application to automate installing openhardwaremonitor
